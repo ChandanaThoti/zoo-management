@@ -15,6 +15,7 @@ This project is a command-line interface (CLI) based Zoo Management System devel
 
 ## Features
 
+- Reptiles feature include the specific properties ike coldBlooded, scaleType, layEggs() which distinguish from other types.
 - Animal interface has properties like id, name, species, age, habitat, sound() and Mammal class implement Animal with furType.
 
 ## Tech Stack
