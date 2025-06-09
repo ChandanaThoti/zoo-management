@@ -6,12 +6,16 @@ This project is a command-line interface (CLI) based Zoo Management System devel
 
 ##  Table of Contents
 
+- [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Clone Project](#-clone-project)
 - [Installation](#-installation)
 - [Start Project](#-start-project)
 - [Contact information](#-contact-information)
 
+## Features
+
+- Reptiles feature include the specific properties ike coldBlooded, scaleType, layEggs() which distinguish from other types.
 
 ## Tech Stack
 
