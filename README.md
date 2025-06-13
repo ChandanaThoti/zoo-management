@@ -16,6 +16,8 @@ This project is a command-line interface (CLI) based Zoo Management System devel
 ## Features
 
 - Animal interface has properties like id, name, species, age, habitat, sound() and Mammal class implement Animal with furType.
+- Staff feature enabled to assign animal to employe based on the role like vet,keeper,etc.
+- The Employee interface with id,name and role used in Staff class and from async class using setTimeOut() , staff is assigned to animal with certain id.
 
 ## Tech Stack
 
